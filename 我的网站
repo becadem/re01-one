@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我的网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+    ">
+      <img src='https://i.328888.xyz/2023/01/25/bw5Cc.jpeg' alt="网站背景" width="200" height="150">
+    </div>
+    <div style="
+      max-width: 760px;
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+    ">
+      <h1>谢谢你的到来</h1>
+      <p>你好哇，这里是我的网站，暂时只作为练习而建立</p>
+      <p>这里之后可以加其他功能</p>
+      <p>等待施工ing</p>
+    </div>
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      font-size: 12px;
+    ">
+      <p>我的网站</p>
+      <a href="https://www.libvio.me/">友情链接</a>
+    </div>
+  </body>
+</html>
